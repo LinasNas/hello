@@ -1,4 +1,4 @@
 # hello
 ## this repository is made for testing the git command line
-### this is a subheading
-#### this is a sub-subheading
+### here is some more detailed information about this repository
+this repository is made for testing the git command line
